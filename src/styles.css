@@ -3,6 +3,7 @@ body {
   font-family: sans-serif;
 }
 h1 {
+  background-image: url("src/image/background.png");
   font-size: 32px;
   opacity: 80%;
   line-height: 28px;

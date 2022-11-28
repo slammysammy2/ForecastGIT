@@ -1,4 +1,5 @@
 body {
+  background-image: url("weatherbackground.jpg");
   font-family: sans-serif;
 }
 h1 {

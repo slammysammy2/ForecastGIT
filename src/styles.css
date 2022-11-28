@@ -4,6 +4,7 @@ body {
 }
 h1 {
   background-image: url("src/image/background.png");
+  background-repeat: no-repeat;
   font-size: 32px;
   opacity: 80%;
   line-height: 28px;
